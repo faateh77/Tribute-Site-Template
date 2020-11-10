@@ -1,0 +1,44 @@
+.container{
+    background-color:rgb(235, 226, 226);
+height:2100px;
+width:1350px;
+}
+.biography{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li {
+    margin: 16px 0;
+  }
+.seconddiv{
+background-color: white;
+height:570px;
+width:1300px;
+margin-left: 20px;
+
+
+}
+.image{
+    height:500px;
+    width:800px;  
+    padding-left: 320px;
+}
+.parainsideseconddiv{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+   
+    
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+}
